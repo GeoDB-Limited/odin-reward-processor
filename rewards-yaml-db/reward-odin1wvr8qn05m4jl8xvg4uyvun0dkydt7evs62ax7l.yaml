@@ -1,0 +1,8 @@
+rewards:
+- reward:
+  - amount: "25024289.353650583650000000"
+    denom: loki
+  validator_address: odinvaloper1wvr8qn05m4jl8xvg4uyvun0dkydt7evshhfcht
+total:
+- amount: "25024289.353650583650000000"
+  denom: loki

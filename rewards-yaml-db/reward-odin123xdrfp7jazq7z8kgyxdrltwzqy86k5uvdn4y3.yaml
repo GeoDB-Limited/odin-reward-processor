@@ -1,0 +1,10 @@
+rewards:
+- reward: []
+  validator_address: odinvaloper123xdrfp7jazq7z8kgyxdrltwzqy86k5ups8td9
+- reward:
+  - amount: "255178.029228205596839490"
+    denom: loki
+  validator_address: odinvaloper10u2g5yhvtm0d76f860kggp6lakge4q8hj59tn5
+total:
+- amount: "255178.029228205596839490"
+  denom: loki
